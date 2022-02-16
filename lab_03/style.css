@@ -1,0 +1,154 @@
+.table td,
+.table th {
+    border: 1px solid #6395ff;
+    padding: 5px 10px;
+}
+
+.table {
+    border-collapse: collapse;
+    width: 500px;
+}
+
+.table thead {
+    background-color: #dae1f8;
+}
+
+.table tfoot {
+    background-color: #5776b1;
+    color: #fff;
+    text-align: right;
+}
+
+.rozklad {
+    border-collapse: collapse;
+    width: 470px;
+}
+
+.rozklad caption {
+    font-weight: bold;
+    font-size: large;
+}
+
+.c1 {
+    background-color: #d3deba;
+}
+
+.c2 {
+    background-color: #a7b8bd;
+}
+
+.b1c2 {
+    border: 4px solid black;
+    background-color: #a7b8bd;
+}
+
+.b2c2 {
+    border-bottom: 1px solid black;
+    border-right: 4px solid black;
+    background-color: #a7b8bd;
+
+}
+
+.b3c2 {
+    border-top: 1px solid black;
+    border-bottom: 1px solid #000;
+    border: 4px solid black;
+    background-color: #a7b8bd;
+
+}
+
+.b4c2 {
+    border-top: 1px solid black;
+    border-bottom: 4px solid black;
+    border-right: 4px solid black;
+    background-color: #a7b8bd;
+
+}
+
+.b5c2 {
+    border-right: 4px solid black;
+    border-bottom-style: dotted;
+    border-bottom: 1px;
+    background-color: #a7b8bd;
+}
+
+.b6c2 {
+    border-right: 4px solid black;
+    border-top-style: dotted;
+    border-bottom: 1px solid black;
+    background-color: #a7b8bd;
+}
+
+.b7c2 {
+    border-right: 4px solid black;
+    border-bottom-style: dotted;
+    border-top: 1px solid black;
+    background-color: #a7b8bd;
+}
+
+.b8c2 {
+    border-right: 4px solid black;
+    border-bottom: 4px solid black;
+    background-color: #a7b8bd;
+}
+
+.b9c1 {
+    border-top: 4px solid #000;
+    border-bottom: 4px solid #000;
+    border-right: 1px solid #000;
+    background-color: #d3deba;
+}
+
+.b10c1 {
+    border-top: 4px solid black;
+    border-bottom: 4px solid black;
+    border-right: 2px;
+    border-right-style: dashed;
+    background-color: #d3deba;
+}
+
+.b11c1 {
+    border-top: 4px solid black;
+    border-bottom: 4px solid black;
+    border-right: 4px solid black;
+    background-color: #d3deba;
+}
+
+.b12wc {
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.b13wc {
+    border-bottom: 4px solid black;
+    border-right: 1px solid black;
+}
+
+.b14wc {
+    border-right: 1px solid black;
+}
+
+.b15wc {
+    border-bottom: 1px solid black;
+    border-right-style: dashed;
+}
+
+.b16wc {
+    border-bottom: 4px solid black;
+    border-right-style: dashed;
+}
+
+.b17wc {
+    border-right-style: dashed;
+    border-bottom: 0px solid black;
+}
+
+.b18wc {
+    border-bottom: 1px solid black;
+    border-right: 4px solid black;
+}
+
+.b19wc {
+    border-bottom: 4px solid black;
+    border-right: 4px solid black;
+}
